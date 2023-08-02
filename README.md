@@ -42,10 +42,10 @@ $ git clone https://github.com/welisonw/dogs-social-media-origamid.git
 $ cd Dogs
 
 # Instale as dependências
-$ npm install
+$ npm install  ou  yarn install
 
 # Inicie o projeto
-$ npm run dev
+$ npm run dev  ou  yarn run dev
 
 # O app vai inicializar em http://localhost:5173/
 ```

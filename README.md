@@ -25,7 +25,7 @@ A aplicação **Dogs | Rede social para cachorros** foi criada no projeto final 
 ✓ Post de fotos\
 ✓ Exclusão de fotos\
 ✓ Comentários de fotos\
-✓ Estatistica de vizualizações com um gráficos inseridos através da biblioteca Victory
+✓ Estatisticas de visualizações com um gráficos inseridos através da biblioteca Victory
 
 ## 🚀 Tecnologias
 

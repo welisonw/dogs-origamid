@@ -39,7 +39,7 @@ A aplicação **Dogs | Rede social para cachorros** foi criada no projeto final 
 $ git clone https://github.com/welisonw/dogs-social-media-origamid.git
 
 # Entre na pasta do projeto
-$ cd Dogs
+$ cd dogs-social-media-origamid
 
 # Instale as dependências
 $ npm install  ou  yarn install
